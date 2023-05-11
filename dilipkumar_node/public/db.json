@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "645b52954850f7166f150996",
+    "name": "Temperature Sensor 1",
+    "status": "working",
+    "location": "Room 101",
+    "description": "This sensor measures the temperature in Room 101.",
+    "version": "1.0",
+    "manufacturer": "Acme Sensors",
+    "date_installed": "2022-01-01"
+  },
+  {
+    "_id": "645b52954850f7166f150998",
+    "name": "Light Sensor 1",
+    "status": "working",
+    "location": "Room 103",
+    "description": "This sensor measures the light level in Room 103.",
+    "version": "1.0",
+    "manufacturer": "Acme Sensors",
+    "date_installed": "2022-03-01"
+  },
+  {
+    "_id": "645b52954850f7166f15099b",
+    "name": "Water Leak Detector 1",
+    "status": "stopped",
+    "location": "Bathroom",
+    "description": "This sensor detects water leaks in the bathroom.",
+    "version": "1.1",
+    "manufacturer": "Acme Sensors",
+    "date_installed": "2022-06-01"
+  },
+  {
+    "_id": "645b52954850f7166f15099a",
+    "name": "Air Quality Sensor 1",
+    "status": "working",
+    "location": "Room 105",
+    "description": "This sensor measures the air quality in Room 105.",
+    "version": "1.0",
+    "manufacturer": "Acme Sensors",
+    "date_installed": "2022-05-01"
+  },
+  {
+    "_id": "645b52954850f7166f150997",
+    "name": "Humidity Sensor 1",
+    "status": "stopped",
+    "location": "Room 102",
+    "description": "This sensor measures the humidity in Room 102.",
+    "version": "1.1",
+    "manufacturer": "Acme Sensors",
+    "date_installed": "2022-02-01"
+  },
+  {
+    "_id": "645b52954850f7166f150999",
+    "name": "Motion Sensor 1",
+    "status": "stopped",
+    "location": "Room 104",
+    "description": "This sensor detects motion in Room 104.",
+    "version": "1.1",
+    "manufacturer": "Acme Sensors",
+    "date_installed": "2022-04-01"
+  },
+  {
+    "_id": "645b52954850f7166f15099c",
+    "name": "Smoke Detector 1",
+    "status": "working",
+    "location": "Hallway",
+    "description": "This sensor detects smoke in the hallway.",
+    "version": "1.0",
+    "manufacturer": "Acme Sensors",
+    "date_installed": "2022-07-01"
+  }
+]
